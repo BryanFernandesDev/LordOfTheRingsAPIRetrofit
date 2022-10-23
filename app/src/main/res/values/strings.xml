@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LordOfTheRingsAPI-Retrofit</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_main_api">MainActivityApi</string>
+    <string name="book_list_main">Book List</string>
+    <string name="lotrd_title">The Lord Of The Rings</string>
+    <string name="book_list_menu_string">Books List</string>
+    <string name="characters_list_menu_string">Characters</string>
+    <string name="chapters_list_menu_string">Chapters List</string>
+    <string name="menu_quote">All that is gold does not glitter, not all those who wander are lost</string>
+    <string name="menuBookButton">Books List</string>
+    <string name="charactersMenuButton">Characters List</string>
+</resources>
